@@ -1,6 +1,6 @@
 {
   "name": "@guiexpert/angular-table",
-  "version": "18.1.67",
+  "version": "18.1.68",
   "scripts": {
     "inst": "pnpm install -f",
     "ng": "ng",
@@ -20,7 +20,7 @@
     "@angular/platform-browser": "^18.0.0",
     "@angular/platform-browser-dynamic": "^18.0.0",
     "@angular/router": "^18.0.0",
-    "@guiexpert/table": "^1.1.67",
+    "@guiexpert/table": "^1.1.68",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2"
